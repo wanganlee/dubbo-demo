@@ -1,0 +1,2 @@
+demo=my=com.demo.balance.DemoLoadBalance
+dispatcher=com.demo.balance.DispatcherLoadBalance
