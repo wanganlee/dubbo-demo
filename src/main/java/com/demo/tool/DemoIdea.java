@@ -12,6 +12,9 @@ import java.util.Map;
  */
 public class DemoIdea {
 
+    /**
+     * this is a demo for type json string.
+     */
     public static void main(String[] args) {
         String json = "{\"name\":\"developer_wang\",\"age\":30}";
         Gson gson = new GsonBuilder().create();
@@ -21,9 +24,9 @@ public class DemoIdea {
     }
 
 
-    public void test(){
+    public void test() {
         String num;
-       // num.no
+        // num.no
     }
 
 
